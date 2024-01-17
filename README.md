@@ -1,6 +1,6 @@
 # Hatch
 This package is an example project for building a Python package (i.e., wheel or sdist).
-It relies on [Hatch](https://ofek.dev/hatch/latest/) as a build backend with `pyproject.toml`
+It relies on [Hatch](https://hatch.pypa.io/) as a build backend with `pyproject.toml`
 for configuration.
 
 ## Commands:
